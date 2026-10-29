@@ -1,5 +1,7 @@
 # ferrous-query-engine
 
+[← Back to FerrousCX Root Architecture](https://github.com/reidlai/ferrous-cx)
+
 > **Apache DataFusion Vectorized Analytical Query Engine & Catalog Federation for FerrousCX**  
 > Pure-Rust analytical query execution engine powered by [Apache DataFusion](https://datafusion.apache.org/) and `delta-lake-rs`, providing sub-3ms in-memory vectorized SQL scans, extensible `TableProvider` federation, and Arrow Flight SQL query serving.
 
